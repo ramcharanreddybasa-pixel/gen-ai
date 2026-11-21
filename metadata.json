@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy — Smart Revision Assistant",
+  "description": "Transform lengthy study notes and PDFs into smart exam summaries, interactive practice quizzes, key term flashcards, and downloadable revision packs with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
